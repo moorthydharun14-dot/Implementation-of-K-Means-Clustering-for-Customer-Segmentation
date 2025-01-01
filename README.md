@@ -26,6 +26,9 @@ import matplotlib.pyplot as plt
 data = pd.read_csv("Mall_Customers.csv")
 ```
 ```
+data.head()
+```
+```
 data.info()
 ```
 ```
